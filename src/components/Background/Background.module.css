@@ -1,8 +1,4 @@
-/* Design taken from https://codepen.io/jspilka95/pen/vYXXWOE */
 .area {
-    background-color: #54acff;
-    background-image: linear-gradient(43deg, #54acff 0%, #c67aff 46%, #ff84b3 100%);
-
     background: #0f0c29; /* fallback for old browsers */
     background: -webkit-linear-gradient(to right, #24243e, #302b63, #0f0c29); /* Chrome 10-25, Safari 5.1-6 */
     background: linear-gradient(
